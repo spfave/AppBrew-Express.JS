@@ -2,7 +2,7 @@
   "name": "19-express.js",
   "version": "1.0.0",
   "description": "First Express.JS server",
-  "main": "server.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
