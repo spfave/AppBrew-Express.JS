@@ -1,0 +1,23 @@
+{
+  "name": "19-express.js",
+  "version": "1.0.0",
+  "description": "First Express.JS server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spfave/AppBrew-Express.JS.git"
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spfave/AppBrew-Express.JS/issues"
+  },
+  "homepage": "https://github.com/spfave/AppBrew-Express.JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
