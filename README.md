@@ -6,4 +6,5 @@ Course url: https://www.appbrewery.co/courses
 ## Section 18 - Express.JS with Node.JS
 
 - Create server with Express
--
+- Handling requests and responses
+- Working with routes
